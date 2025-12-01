@@ -44,10 +44,10 @@ Each homework folder typically contains:
 
 ## Homework 2
 
-**Topics Covered**
-- Deeper multilayer perceptrons (MLPs)
-- Regularization (L2, early stopping, dropout)
-- Optimization methods (SGD, momentum, Adam)
+**Topics Covered** 
+- Convolutional Neural Networks
+- Effects of Varying Resolution on Performance of CNN based Image Classification
+- CNN Model for Image Classification on MNIST and Fashion-MNIST Dataset
 
 **[Open HW2 Folder](HW2/)**
 
@@ -56,9 +56,10 @@ Each homework folder typically contains:
 ## Homework 3
 
 **Topics Covered**
-- Convolutional Neural Networks (CNNs)
-- Image classification on benchmark datasets (e.g., MNIST / CIFAR)
-- Architectural design (filters, pooling, padding)
+- Skin Cancer Classification Model Based on VGG19 and Transfer Learning
+- Delving into High-Quality Synthetic Face Occlusion Segmentation Datasets
+- Single-stage Object Detection with YOLOv6 on Custom Dataset (Chess Dataset)
+![Image]()
 
 **[Open HW3 Folder](HW3/)**
 
