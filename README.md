@@ -1,4 +1,4 @@
-# Deep Neural Networks — Course Assignments (Fall 2022)
+# Neural Networks & Deep Learning — Course Assignments (Fall 2022)
 
 **School of Electrical and Computer Engineering, College of Engineering,  
 University of Tehran, Tehran, Iran**
@@ -59,7 +59,7 @@ Each homework folder typically contains:
 - Skin Cancer Classification Model Based on VGG19 and Transfer Learning
 - Delving into High-Quality Synthetic Face Occlusion Segmentation Datasets
 - Single-stage Object Detection with YOLOv6 on Custom Dataset (Chess Dataset)
-![Image]()
+![Image](https://github.com/MahsaNadafi/NN-Course-Projects-CIPCE/blob/main/HW3/model-prediction.png)
 
 **[Open HW3 Folder](HW3/)**
 
@@ -68,9 +68,9 @@ Each homework folder typically contains:
 ## Homework 4
 
 **Topics Covered**
-- Recurrent Neural Networks (RNNs) and LSTMs/GRUs
-- Sequence modeling (time series / text)
-- Training stability and vanishing gradients
+RNNs, LSTMs, GRUs, CNN-LSTM
+- Air‑pollution prediction in smart city, deep learning approach
+- Fake news detection: A hybrid CNN-RNN-based deep learning approach
 
 **[Open HW4 Folder](HW4/)**
 
@@ -79,9 +79,13 @@ Each homework folder typically contains:
 ## Homework 5
 
 **Topics Covered**
-- Autoencoders and representation learning
-- Denoising and regularized autoencoders
-- Dimensionality reduction and latent space visualization
+- Implementing BERT from scratch
+  Papers:
+  Attention Is All You Need!
+  GAUSSIAN ERROR LINEAR UNITS (GELUS)
+  BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding
+- Image Segmentation & Classification with BEIT
+  BEIT: BERT Pre-Training of Image Transformers
 
 **[Open HW5 Folder](HW5/)**
 
@@ -90,9 +94,16 @@ Each homework folder typically contains:
 ## Homework 6
 
 **Topics Covered**
-- Advanced deep learning techniques (e.g., batch normalization, residual connections)
-- Model evaluation and generalization analysis
-- Comparative experiments across architectures
+Generative Adversarial Networks
+- Deep Convolutional GAN (DCGAN)
+  Papers:
+  Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks
+  One-sided Label Smoothing (Improved Techniques for Training GANs)
+  Add Noise (Towards Principled Methods for Training Generative Adversarial Networks)
+- AC-GAN, WGAN
+  Papers:
+  Conditional Image Synthesis With Auxiliary Classifier GANs
+  Wasserstein GAN (Arjovsky et al. 2017)
 
 **[Open HW6 Folder](HW6/)**
 
