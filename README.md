@@ -33,9 +33,7 @@ Each homework folder typically contains:
 ## Homework 1
 
 **Topics Covered**
-- Perceptron and logistic regression
-- Basic feedforward neural networks
-- Gradient descent and backpropagation
+- House-Price Regression with MLP
 
 **[Open HW1 Folder](HW1/)**
 
