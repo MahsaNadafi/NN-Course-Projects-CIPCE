@@ -3,9 +3,8 @@
 **School of Electrical and Computer Engineering, College of Engineering,  
 University of Tehran, Tehran, Iran**
 
-This repository contains my assignment submissions for the **Deep Neural Networks** course offered at the University of Tehran in Fall 2022, instructed by **Dr. Ahmad Kalhor**.
-
-The assignments cover a broad set of foundational and advanced concepts in neural networks, including **perceptrons and logistic regression, multilayer feedforward networks, optimization and regularization, convolutional neural networks (CNNs), recurrent neural networks (RNNs), and autoencoders / representation learning**.
+This repository contains my assignment submissions for the Neural Networks & Deep Learning course offered at the University of Tehran in Fall 2022, instructed by Dr. Ahmad Kalhor.
+Across these assignments, I implemented and analyzed a wide range of modern deep-learning methods—from perceptrons and feedforward networks to CNNs for image classification, transfer learning, object detection, recurrent models for sequence prediction, transformers and BERT, and finally GANs for generative modeling. The course progressively covers both theoretical foundations and hands-on projects using real-world datasets.
 
 ---
 
